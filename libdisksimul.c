@@ -123,3 +123,5 @@ void ds_stop(){
 	fclose(simulfile);
 	simulfile = NULL;
 }
+
+//// testando a o acesso
