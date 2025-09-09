@@ -124,4 +124,4 @@ void ds_stop(){
 	simulfile = NULL;
 }
 
-//// testando a o acesso
+//	Edit Adrian Gazzani
